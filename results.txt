@@ -1,0 +1,479 @@
+[32mkeys
+[31mHIGH  [34m  Private Key
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[31m7[0m  -[31m-----BEGIN OPENSSH PRIVATE KEY-----[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[31mHIGH  [34m  Private Key
+[0m[31m6[0m  [31m-----BEGIN OPENSSH PRIVATE KEY-----[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  AWS API Key
+Branch  master
+Message doing some dev work
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  fbc14303ffbf8fb1c2c1914e8dda7d0121633aca
+[0m[33m5[0m  +aws_access_key_id = [33mAKIAYVP4CIPPERUVIFXG[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  AWS API Key
+Branch  main
+Message doing some dev work
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  fbc14303ffbf8fb1c2c1914e8dda7d0121633aca
+[0m[33m5[0m  +aws_access_key_id = [33mAKIAYVP4CIPPERUVIFXG[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  AWS API Key
+Branch  main
+Message woops, some keys
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  742a554281e85266212a6a7e4fa33b7a950ab6a6
+[0m[33m6[0m  +aws_access_key_id = [33mAKIAYVP4CIPPERUVIFXG[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message woops, some keys
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  742a554281e85266212a6a7e4fa33b7a950ab6a6
+[0m[33m7[0m  +aws_secret_access_key = [33mZt2U1h267eViPnuSA+JO5ABhiu4T7XUMSZ+Y2Oth[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m37[0m  [33msDkv1Yk1pD0roGmtMzbujnURGxqRJ8gUmuIot4hpfyRSssvnRQQZ3lQCQCwHiE+HJxXWf5[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m36[0m  [33mS7SW9/LOrGw5UgxtiU+kV8nPz1PdgxO4sRlnntSBEwkQBzMkLOpq2h2BuJ2TlMP/TWuwLQ[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m29[0m  -[33mea+Pm2A614nlYUBjw2KKzzn8N/0H2NpJjIptvDsbrx3BS/rKwOeJwavRrGnIlEzuAag4vx[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m20[0m  -[33mSuyU+0x5zc3ebzuPcYqu5/c5nmiGxhALrIhjIS0OV1mtAAFhvdMjMIHOijOzSKVCC7rRk5[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m14[0m  -[33mNT7eP19eVf4dCreibxUmRUaob5DEoHEk8WrxjKWIYUuLeD6AfcW6oXyRU2Yy8Vrt6SqFl5[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m30[0m  -[33mZb2TPVta45uz7fQP5IBl83b0BJKI5Zv/fniUeLI78W/UsZqb64YQbfRyBzFtI1T/SsCi0B[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m25[0m  [33m8vQDCKpeI8n+quDS9zxTvy4L4H5Iz7OZlh0h6N13BDvCYXKcNF/ugkfxZbu8mZsZQQzXNR[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m32[0m  -[33ms5vPhfIUmQawmnwAVuWNRdQQ79jUBSn5M+ZRVVTgEG+vFyvxr/bZqOo1JCoq5BmQhLWGRJ[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m27[0m  -[33mwOrEtKoHc4AnXYNzsuHEoEyLyJxGfFRDSTLbyN9wFOS/c0k9Gjte+kQRZjBVGORE5sN6X3[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m33[0m  [33mkcOCaurc9yHJJPwduem0+8WLX3WoGNfQRKurtQze2ppy8KarEtDhDd96sKkhYaqOg3GOX8[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m28[0m  -[33makUnTF76RhbEc+LamrwM1h5340bwosRbR8I+UrsQdFfJBEj1ZSyMRJlMkFUNi6blt7bhyx[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m34[0m  -[33mkcOCaurc9yHJJPwduem0+8WLX3WoGNfQRKurtQze2ppy8KarEtDhDd96sKkhYaqOg3GOX8[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m21[0m  [33mwOQfWfTWdO+JSL8aoBN5Wg8tDbgmvmbFrINsJfFfSm0wZgcHhC7Ul4U3v4c8PoNdK9HXwi[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m41[0m  -[33mmuIjvl6G7Hoj1hObM2t/ZheN1EShS11z868hhS6Mx7GvIdtkXuvdiBYMiBLOshJQxB8Mzx[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m12[0m  -[33mOLZKbDA5aa24idpcD8b1I9/RzTOB1fu0of5xd9vgODzGw5JvHQSJ0FaA42aNBMGwrDhDB3[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m37[0m  -[33mS7SW9/LOrGw5UgxtiU+kV8nPz1PdgxO4sRlnntSBEwkQBzMkLOpq2h2BuJ2TlMP/TWuwLQ[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m24[0m  -[33mnRHA4Igx+zADFj3twldnKIiRpBQ5J4acur3uQ+saanBTXgul1TiFiUGT2cnz+IiCsdPovg[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m20[0m  [33mkG9EMLNvOn/DUVSRHamw5gs2V3V+Zq2g5nYWfgq8aDSTB8XlIzOj1cz3HwfN6pfSNQ/3Qe[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m35[0m  -[33mYx827L4vuWSJSIqKuO2kH6kOCMUNO16piv0z/8u3CJxOGh9+4FZIop81fiFTKLhV3/gwLm[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m36[0m  -[33mfzFY++KIZrLfZcUjzd80NNEja69F452Eb9HrI5BurN/PznDEi9bzM598Y7beyl4/kd4R2e[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m38[0m  [33mc58zOMjW7o21tI8e13uUnbRoQVJM9XYqk1usPXIkYPYL9uOw3AW/Zn+cnDrsXvTK9ZxgGD[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m44[0m  -[33mHx7UPVlTK8dyvk1Z+Yw0nrfNClI=[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m14[0m  [33mWAi47VMFTkDZYS/eCvG53q9UBHpCj7Qvb0vSkCZXBvBIhlw193F3PX4WvO1IXsMwvQ1D1X[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  master
+Message doing some dev work
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  fbc14303ffbf8fb1c2c1914e8dda7d0121633aca
+[0m[33m6[0m  +aws_secret_access_key = [33mZt2U1h267eViPnuSA+JO5ABhiu4T7XUMSZ+Y2Oth[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m19[0m  [33mSuyU+0x5zc3ebzuPcYqu5/c5nmiGxhALrIhjIS0OV1mtAAFhvdMjMIHOijOzSKVCC7rRk5[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m22[0m  [33mTKKzJ9nxLYb+vDh50cnkseu2gt0KwVpjIorxEqeK755mKPao3JmOMr6uFTQsb+g+ZNgPwl[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m17[0m  -[33mUYrCnWt6KlCA8AAAWQXk+lVx6bH5itIKKYmQr6cR/5xtZ2GHAxnYtvlW3xnGhU0MHv+lJ2[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m10[0m  [33minRa5kdtNTyM7yyQTSR2xXCS0fUItNuq8pUktsH8VUggpMeew8hJv7rFA7tnIg3UXCl6iF[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m29[0m  [33mZb2TPVta45uz7fQP5IBl83b0BJKI5Zv/fniUeLI78W/UsZqb64YQbfRyBzFtI1T/SsCi0B[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m19[0m  -[33mRj5qjsUn7fNmzECoAxnVERhwnF3KqUBEPzIAc6/7v/na9NTiiGaJPco9lvCoPWbVLN08WG[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m16[0m  [33mUYrCnWt6KlCA8AAAWQXk+lVx6bH5itIKKYmQr6cR/5xtZ2GHAxnYtvlW3xnGhU0MHv+lJ2[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m32[0m  [33mDk9TolbeFIVFrkuXkcu99a079ux7XSkON64oPzHrcsEzjPA1GPqs9CGBSO16wq/nI3zg+E[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m12[0m  [33msgnRNdWf6NNIh8KpXXMKJADf3klsyn6He8L2bPMp8a4wwys2YB35p5zQ0JURovsdewlOxH[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m38[0m  -[33msDkv1Yk1pD0roGmtMzbujnURGxqRJ8gUmuIot4hpfyRSssvnRQQZ3lQCQCwHiE+HJxXWf5[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m42[0m  [33mf3BPXj76UBLMEJCrZR1P28vnAA7AyNHaLvMPlWDMG5v3V/UV+ugyFcoBAOyjiQgYST8F3e[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m23[0m  -[33mTKKzJ9nxLYb+vDh50cnkseu2gt0KwVpjIorxEqeK755mKPao3JmOMr6uFTQsb+g+ZNgPwl[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m15[0m  -[33mWAi47VMFTkDZYS/eCvG53q9UBHpCj7Qvb0vSkCZXBvBIhlw193F3PX4WvO1IXsMwvQ1D1X[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m42[0m  -[33miug9W+Di3upLf0UMC1TqADGphsIHRU7RbmHQ8Rwp7dogswmDfpRSapPt9p0D+6Ad5VBzi3[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m26[0m  [33mwOrEtKoHc4AnXYNzsuHEoEyLyJxGfFRDSTLbyN9wFOS/c0k9Gjte+kQRZjBVGORE5sN6X3[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message doing some dev work
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  fbc14303ffbf8fb1c2c1914e8dda7d0121633aca
+[0m[33m6[0m  +aws_secret_access_key = [33mZt2U1h267eViPnuSA+JO5ABhiu4T7XUMSZ+Y2Oth[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m17[0m  [33muoWlT2RXE5pdMUQj7rNWAMqkwifSKZs9wBfYeo1TaFDmC3nW7yHSN3XTuO78mPIW5JyvmE[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m39[0m  -[33mc58zOMjW7o21tI8e13uUnbRoQVJM9XYqk1usPXIkYPYL9uOw3AW/Zn+cnDrsXvTK9ZxgGD[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m33[0m  -[33mDk9TolbeFIVFrkuXkcu99a079ux7XSkON64oPzHrcsEzjPA1GPqs9CGBSO16wq/nI3zg+E[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m30[0m  [33me0EyKMzbxtSceT1Mb8eJiVIq04Xpwez9fIUt5rSedZD8KPq8P6s0cGsR7Qmw6eXZ/dBR/a[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m11[0m  [33mOLZKbDA5aa24idpcD8b1I9/RzTOB1fu0of5xd9vgODzGw5JvHQSJ0FaA42aNBMGwrDhDB3[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m23[0m  [33mnRHA4Igx+zADFj3twldnKIiRpBQ5J4acur3uQ+saanBTXgul1TiFiUGT2cnz+IiCsdPovg[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m16[0m  -[33mlmomsItbqM0cJyKw6LU18QWiBHvE7BqcphaoL5E08W2ATTSRIMCp6rt4rptM7KyGK8rc6W[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m10[0m  -[33mutVNk5DixaYrGMK56RqUoqGBinke6SWVWmqom1lBcJWzor6HlnMRPPr7YCEsJKL4IpuVwu[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m34[0m  [33mYx827L4vuWSJSIqKuO2kH6kOCMUNO16piv0z/8u3CJxOGh9+4FZIop81fiFTKLhV3/gwLm[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m18[0m  [33mRj5qjsUn7fNmzECoAxnVERhwnF3KqUBEPzIAc6/7v/na9NTiiGaJPco9lvCoPWbVLN08WG[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m27[0m  [33makUnTF76RhbEc+LamrwM1h5340bwosRbR8I+UrsQdFfJBEj1ZSyMRJlMkFUNi6blt7bhyx[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m18[0m  -[33muoWlT2RXE5pdMUQj7rNWAMqkwifSKZs9wBfYeo1TaFDmC3nW7yHSN3XTuO78mPIW5JyvmE[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m41[0m  [33miug9W+Di3upLf0UMC1TqADGphsIHRU7RbmHQ8Rwp7dogswmDfpRSapPt9p0D+6Ad5VBzi3[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m43[0m  [33mHx7UPVlTK8dyvk1Z+Yw0nrfNClI=[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m11[0m  -[33minRa5kdtNTyM7yyQTSR2xXCS0fUItNuq8pUktsH8VUggpMeew8hJv7rFA7tnIg3UXCl6iF[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m15[0m  [33mlmomsItbqM0cJyKw6LU18QWiBHvE7BqcphaoL5E08W2ATTSRIMCp6rt4rptM7KyGK8rc6W[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m26[0m  -[33m8vQDCKpeI8n+quDS9zxTvy4L4H5Iz7OZlh0h6N13BDvCYXKcNF/ugkfxZbu8mZsZQQzXNR[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m40[0m  [33mmuIjvl6G7Hoj1hObM2t/ZheN1EShS11z868hhS6Mx7GvIdtkXuvdiBYMiBLOshJQxB8Mzx[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m31[0m  -[33me0EyKMzbxtSceT1Mb8eJiVIq04Xpwez9fIUt5rSedZD8KPq8P6s0cGsR7Qmw6eXZ/dBR/a[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m21[0m  -[33mkG9EMLNvOn/DUVSRHamw5gs2V3V+Zq2g5nYWfgq8aDSTB8XlIzOj1cz3HwfN6pfSNQ/3Qe[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m35[0m  [33mfzFY++KIZrLfZcUjzd80NNEja69F452Eb9HrI5BurN/PznDEi9bzM598Y7beyl4/kd4R2e[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m22[0m  -[33mwOQfWfTWdO+JSL8aoBN5Wg8tDbgmvmbFrINsJfFfSm0wZgcHhC7Ul4U3v4c8PoNdK9HXwi[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m25[0m  -[33mTAMt868W5LmzpfH4Cy54JtaRC4/UuMnkTGbWgutVDnWj2stOAzsQ1YmhH5igUmc94mUL+W[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m39[0m  [33m/90b1BNwVqMlUK+QggHNwl5qD8eoXK5cDvav66te+E+V7FYFQ06w3tytRVz8SjoaiChN02[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m13[0m  -[33msgnRNdWf6NNIh8KpXXMKJADf3klsyn6He8L2bPMp8a4wwys2YB35p5zQ0JURovsdewlOxH[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m9[0m  [33mutVNk5DixaYrGMK56RqUoqGBinke6SWVWmqom1lBcJWzor6HlnMRPPr7YCEsJKL4IpuVwu[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m13[0m  [33mNT7eP19eVf4dCreibxUmRUaob5DEoHEk8WrxjKWIYUuLeD6AfcW6oXyRU2Yy8Vrt6SqFl5[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m28[0m  [33mea+Pm2A614nlYUBjw2KKzzn8N/0H2NpJjIptvDsbrx3BS/rKwOeJwavRrGnIlEzuAag4vx[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m31[0m  [33ms5vPhfIUmQawmnwAVuWNRdQQ79jUBSn5M+ZRVVTgEG+vFyvxr/bZqOo1JCoq5BmQhLWGRJ[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m40[0m  -[33m/90b1BNwVqMlUK+QggHNwl5qD8eoXK5cDvav66te+E+V7FYFQ06w3tytRVz8SjoaiChN02[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+Branch  main
+Message adding stuff
+Author  counter <counter@counters-MacBook-Air.local>
+Commit  77b2a3e56973785a52ba4ae4b8dac61d4bac016f
+[0m[33m43[0m  -[33mf3BPXj76UBLMEJCrZR1P28vnAA7AyNHaLvMPlWDMG5v3V/UV+ugyFcoBAOyjiQgYST8F3e[0m
+[90m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[32mkeys
+[33mMEDIUM[34m  High Entropy
+[0m[33m24[0m  [33mTAMt868W5LmzpfH4Cy54JtaRC4/UuMnkTGbWgutVDnWj2stOAzsQ1YmhH5igUmc94mUL+W[0m
