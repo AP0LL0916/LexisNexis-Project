@@ -1,19 +1,27 @@
 import os
 import time
+import pyodbc
+import json
+import csv
+import pandas as pd
 from datetime import datetime
 
 #Beginning of the program, program will ask for github urls 
 def start():
   
-    
+    print("-------------------------------------------------------------")
     print("Welcome to the trufflehog scanner CLI interface.")
     print("-------------------------------------------------------------")
-    print()
+    print("\n\n\n\n\n\n")
 
-
-    URLnum = input("How many repos will you be entering?")
     print("-------------------------------------------------------------")
-    print()
+    URLnum = input("How many repos will you be entering?\n")
+    print("-------------------------------------------------------------")
+    print("\n\n\n\n\n\n")
+    print("-------------------------------------------------------------")
+    
+   
+
     URLnum = int(URLnum)
     ScanConfig(URLnum)
 
@@ -23,10 +31,20 @@ def ScanConfig(urls):
     UrlSet = set()
     #Populates set with URLs entered by user 
     for x in range(urls):
+        print("-------------------------------------------------------------")
         URLname = input("Enter URL \n")
         print("-------------------------------------------------------------")
         UrlSet.add(URLname)
-    print()
+    print("\n\n\n\n\n\n")
+    
+    serverName = input("Name of SQL server for upload (If none type none)\n")
+    print("-------------------------------------------------------------")
+    print("\n\n\n\n\n\n")
+    
+    print("-------------------------------------------------------------")
+    databaseName = input("Type name of database for upload (If none type none)\n")
+    print("-------------------------------------------------------------")
+    print("\n\n\n\n\n\n")
     
     #Takes user input to set timer for automated scanning
     timer = input("Enter how many seconds the program should wait until next scan. \n")
@@ -34,9 +52,9 @@ def ScanConfig(urls):
     print()
     timer = int(timer)
     #passes timer and set of URLS to scanning function
-    URLScan(UrlSet, timer)
+    URLScan(UrlSet, timer, serverName, databaseName)
 
-def URLScan(UrlArray, timer):
+def URLScan(UrlArray, timer, serverName, databaseName):
     #Example URL (https://github.com/trufflesecurity/test_keys)
     
     #Scans through all the URLS and outputs results to results.txt in JSON format
@@ -52,21 +70,59 @@ def URLScan(UrlArray, timer):
         current_time = str(current_time)
         time, extra2 = current_time.split(".", 1)
 
+        #Concantenates the names for the JSON and CSV file
         fileName = repoName + '_' + current_date + '_' + time + ".json"
+        csvName = repoName + '_' + current_date + '_' + time + ".csv"
+        
 
+        #Builds command to be sent to shell
         scan = "trufflehog3 "
         scan += val
-        report = " -f JSON >> "
+        reportJ = " -f JSON >> "
         scanReport =  scan
-        scanReport += report
+        scanReport += reportJ
         scanReport += fileName
+
+       
+
         os.system(scan)
         os.system(scanReport)
+     
    #Passes URL set and timer to timer function
-    Timer(UrlArray, timer)
+    CSV_Report(UrlArray, timer, fileName, csvName, serverName, databaseName)
+
+def CSV_Report(UrlArray, timer, fileName, csvName, serverName, databaseName):
+
+    #uses panda module inside virtual environment to conver
+    #JSON into a CSV file to be uploaded to SQL server.
+    csvCommand = "touch " + csvName
+    os.system(csvCommand)
+
+    df = pd.read_json(fileName)
+    df.to_csv(csvName)
+
+    if serverName == "none" or serverName == "None" or serverName == "NONE" or databaseName == "none" or databaseName == "None" or databaseName == "NONE":
+        Timer(UrlArray, timer, serverName, databaseName)
+    
+    SQL_Upload(UrlArray, timer, csvName, serverName, databaseName)
 
 
-def Timer(UrlArray, timer):
+def SQL_Upload(UrlArray, timer, csvName, serverName, databaseName):
+
+    #function handling SQL upload
+
+
+    Sdata = pd.read_csv(csvName)
+    SQL_Data = pd.DataFrame(Sdata)
+
+    conn = pyobc.connect('Driver= {}')
+
+    print(SQL_Data)
+
+    Timer(UrlArray, timer, serverName, databaseName)
+
+
+def Timer(UrlArray, timer, serverName, databaseName):
     #https://github.com/AP0LL0916/test-keys-private
     #Counts down till next scan and then sends the set of URLs to scanned again looping until user pushes CTRL + C during timer function
     try:
@@ -77,7 +133,7 @@ def Timer(UrlArray, timer):
         timer = int(timer)
         time.sleep(timer)
         print()
-        URLScan(UrlArray, timer)
+        URLScan(UrlArray, timer, serverName, databaseName)
 
     except KeyboardInterrupt:
         print("\n CLOSING PYTHON VIRTUAL ENVIRONMENT")
@@ -87,7 +143,6 @@ def Timer(UrlArray, timer):
 
 #starts up python virtual env using bash script
 print("STARTING UP VIRTUAL ENVIRONMENT")
-time.sleep(5)
 
 
 
