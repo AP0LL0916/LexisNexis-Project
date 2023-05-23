@@ -26,13 +26,13 @@ def start():
 def ScanConfig(urls):
     #Collects array of URLS and gets them ready for scanning
     print()
-    UrlSet = set()
+    URLarray = set()
     #Populates set with URLs entered by user 
     for x in range(urls):
         print("-------------------------------------------------------------")
         URLname = input("Enter URL \n")
         print("-------------------------------------------------------------")
-        UrlSet.add(URLname)
+        URLarray.add(URLname)
     print("\n\n\n\n\n\n")
     
    
@@ -53,13 +53,13 @@ def ScanConfig(urls):
     else:
         timer = "DONE"
     #passes timer and set of URLS to scanning function
-    URLScan(UrlSet, timer)
+    URLScan(URLarray, timer)
 
-def URLScan(UrlArray, timer):
+def URLScan(URLarray, timer):
     #Example URL (https://github.com/trufflesecurity/test_keys)
     
     #Scans through all the URLS and outputs results to results.txt in JSON format
-    for val in UrlArray:
+    for val in URLarray:
         repository = val.replace('https://github.com/', '')
         repoName, extra = repository.split("/", 1)
 
@@ -90,9 +90,9 @@ def URLScan(UrlArray, timer):
         os.system(scanReport)
      
    #Passes URL set and timer to timer function
-    CSV_Report(UrlArray, timer, fileName, csvName)
+    CSV_Report(URLarray, timer, fileName, csvName)
 
-def CSV_Report(UrlArray, timer, fileName, csvName):
+def CSV_Report(URLarray, timer, fileName, csvName):
 
     #uses panda module inside virtual environment to conver
     #JSON into a CSV file to be uploaded to SQL server.
@@ -104,12 +104,12 @@ def CSV_Report(UrlArray, timer, fileName, csvName):
 
    
     
-    Timer(UrlArray, timer)
+    Timer(URLarray, timer)
 
 
 
 
-def Timer(UrlArray, timer):
+def Timer(URLarray, timer):
 
     if timer == "DONE":
         print("Scanning completed. \n\n\n")
@@ -128,7 +128,7 @@ def Timer(UrlArray, timer):
         timer = int(timer)
         time.sleep(timer)
         print()
-        URLScan(UrlArray, timer)
+        URLScan(URLarray, timer)
 
     except KeyboardInterrupt:
         print("\n CLOSING PYTHON VIRTUAL ENVIRONMENT")
